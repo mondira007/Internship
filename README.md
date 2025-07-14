@@ -1,3 +1,3 @@
 # Internship
 
-"C:\Users\Training\Desktop\DATE.docx"
+C:\Users\Training\Desktop\DATE.docx
